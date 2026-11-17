@@ -1,1 +1,2 @@
 Posibilidad de trabajar varios usuarios sobre el mismo documento : Este punto es el que destaca Google Drive sobre Dropbox.
+Las ramas permiten probar cambios antes de incorporarlos a la versión principal.
